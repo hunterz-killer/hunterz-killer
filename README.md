@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Python Programming
+- 🔭 I’m currently working on Python & Java Programming
 - 🌱 I’m currently learning Cyber Security
 
 - 📫 How to reach me: 

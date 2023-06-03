@@ -1,6 +1,6 @@
 # 👋 Hello, Open-Source Enthusiasts!
 
-#### I'm **Srimath**, 
+### I'm **Srimath**, 
 A college student passionate about open-source projects and their potential for innovation. 
 
 - 🔭 I’m currently working on Python & Java Programming

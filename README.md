@@ -32,7 +32,9 @@ A college student passionate about open-source projects and their potential for 
 I'm actively seeking sponsorship to support my contributions and make a lasting impact.
 
 [![pp](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/SrimathM)
-[![gpay](https://img.shields.io/badge/G%20pay-2875E3?style=for-the-badge&logo=googlepay&logoColor=white)]()
+
+<!-- [![gpay](https://img.shields.io/badge/G%20pay-2875E3?style=for-the-badge&logo=googlepay&logoColor=white)]()
+-->
 
 ---
 
